@@ -35,6 +35,7 @@ Steps:
   docker run -itdp 8090:80 simple-app 
 
 7.Test website.
+
   ![image](https://github.com/user-attachments/assets/9d2000cd-7bc9-41a9-8738-06643d5e5a93)
 
   
